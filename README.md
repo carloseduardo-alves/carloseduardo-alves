@@ -2,7 +2,24 @@
 
 ###
 
-<p align="left">Olá! Sou Carlos Eduardo Alves, desenvolvedor C# júnior com 25 anos, apaixonado por tecnologia e por resolver problemas através da programação. Tenho experiência com ASP.NET Core, C# e SQL Server, focado no desenvolvimento de aplicações web e APIs, utilizando tecnologias como Entity Framework, padrão CQRS, validação de APIs, Azure DevOps e microservices. Também possuo familiaridade com testes unitários e boas práticas como SOLID e Clean Code.<br><br>Atualmente, estou em constante aprendizado e aprimoramento das minhas habilidades, buscando entender profundamente mais conceitos de programação back-end. Trabalho em projetos que envolvem boas práticas de desenvolvimento, como Clean Code e arquitetura MVC.<br><br>Meu objetivo é crescer como profissional e contribuir para equipes dinâmicas, sempre buscando agregar valor com meu trabalho. Se você procura um profissional comprometido e disposto a aprender, estou à disposição para novas oportunidades e desafios no desenvolvimento back-end.</p>
+<p align="left">Desenvolvedor C# Júnior | Focado em Boas Práticas e Desenvolvimento de Software de Qualidade
+
+Olá! Sou Carlos Eduardo Alves, Desenvolvedor C# Júnior, apaixonado por tecnologia e com experiência em criar soluções eficientes e escaláveis. Tenho conhecimentos sólidos em desenvolvimento back-end e boas práticas de engenharia de software, sempre buscando aprendizado contínuo e crescimento profissional.
+
+Minhas Experiências e Habilidades
+Desenvolvimento: Experiência com C#, .NET Core e APIs REST.
+Arquitetura e Padrões: Clean Architecture, princípios SOLID, CQRS e Repository Pattern.
+Banco de Dados: Experiência com SQL Server e modelagem de dados.
+Segurança e Validação: Conhecimento em autenticação e autorização com JWT, validação de APIs e melhores práticas.
+Mensageria e Integrações: Familiaridade com RabbitMQ.
+Qualidade de Código: Conhecimento em testes unitários e versionamento com GIT.
+Metodologias de Trabalho: Experiência com Scrum e Kanban, facilitando colaboração e produtividade em equipe.
+Minhas Competências
+Sou disciplinado, focado e comprometido com o sucesso dos projetos em que atuo. Tenho facilidade em trabalhar em equipe, adaptar-me a novos cenários, comunicar ideias, resolver problemas e criar soluções criativas e organizadas.
+
+Estou sempre em busca de oportunidades para agregar valor, aprender novas tecnologias e contribuir para o sucesso da equipe.
+
+Vamos nos conectar? 🚀</p>
 
 ###
 
