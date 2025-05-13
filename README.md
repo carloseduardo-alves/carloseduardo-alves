@@ -2,24 +2,44 @@
 
 ###
 
-<p align="left">Desenvolvedor C# Júnior | Focado em Boas Práticas e Desenvolvimento de Software de Qualidade
+<p align="left">DSou Desenvolvedor .NET com experiência no desenvolvimento e manutenção de APIs utilizando C#, ASP.NET Core e Entity Framework Core, sempre aplicando Clean Architecture, Repository Pattern, CQRS e princípios SOLID. Entrego soluções robustas, escaláveis e de alta qualidade, focadas em melhorar a performance, a manutenção e a escalabilidade de sistemas.
 
-Olá! Sou Carlos Eduardo Alves, Desenvolvedor C# Júnior, apaixonado por tecnologia e com experiência em criar soluções eficientes e escaláveis. Tenho conhecimentos sólidos em desenvolvimento back-end e boas práticas de engenharia de software, sempre buscando aprendizado contínuo e crescimento profissional.
+Principais Resultados:
+- Reduzi em até 40% o tempo de resposta em operações CRUD otimizando consultas e acessos ao banco de dados.
+- Implementei CQRS, aumentando a performance de leitura em até 20% em projetos com grande volume de dados.
+- Melhorei a modularidade e reduzi o tempo de manutenção ao estruturar sistemas com Clean Architecture.
+- Aumentei a cobertura de testes para 90%, diminuindo falhas em produção em até 35% com testes unitários e boas práticas de TDD.
+- Acelerei o desenvolvimento em até 25% ao aplicar o Repository Pattern e práticas de reuso de código.
+- Otimização da performance de relatórios e consultas complexas com melhorias em bancos SQL Server e MongoDB.
+- Experiência consolidada com versionamento e colaboração em equipes utilizando Git/GitHub.
 
-Minhas Experiências e Habilidades
-Desenvolvimento: Experiência com C#, .NET Core e APIs REST.
-Arquitetura e Padrões: Clean Architecture, princípios SOLID, CQRS e Repository Pattern.
-Banco de Dados: Experiência com SQL Server e modelagem de dados.
-Segurança e Validação: Conhecimento em autenticação e autorização com JWT, validação de APIs e melhores práticas.
-Mensageria e Integrações: Familiaridade com RabbitMQ.
-Qualidade de Código: Conhecimento em testes unitários e versionamento com GIT.
-Metodologias de Trabalho: Experiência com Scrum e Kanban, facilitando colaboração e produtividade em equipe.
-Minhas Competências
-Sou disciplinado, focado e comprometido com o sucesso dos projetos em que atuo. Tenho facilidade em trabalhar em equipe, adaptar-me a novos cenários, comunicar ideias, resolver problemas e criar soluções criativas e organizadas.
+Habilidades Técnicas:
+Linguagens & Frameworks:
+- C#, ASP.NET Core, HTML, CSS, JavaScript
 
-Estou sempre em busca de oportunidades para agregar valor, aprender novas tecnologias e contribuir para o sucesso da equipe.
+Arquitetura & Boas Práticas:
+- Clean Architecture, SOLID, Repository Pattern, CQRS, RESTful APIs
 
-Vamos nos conectar? 🚀</p>
+Banco de Dados:
+- SQL Server, MySQL, MongoDB
+
+Testes & Qualidade:
+- xUnit, Testes Unitários, TDD
+
+Ferramentas & Versionamento:
+- Git, GitHub, Postman, Swagger
+
+Metodologias Ágeis:
+- Scrum, Kanban
+
+Objetivo Profissional:
+Atuar como Desenvolvedor .NET em projetos desafiadores, onde eu possa entregar soluções performáticas e de fácil manutenção, contribuindo com meu conhecimento em boas práticas de desenvolvimento, otimização de sistemas e foco em resultados concretos.
+
+Atualmente cursando Análise e Desenvolvimento de Sistemas - Universidade Unicesumar.
+
+Contato:
+Telefone: +55 88 99314-4813
+E-mail: c.eduardoalves9@gmail.com
 
 ###
 
