@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">DSou Desenvolvedor .NET com experiência no desenvolvimento e manutenção de APIs utilizando C#, ASP.NET Core e Entity Framework Core, sempre aplicando Clean Architecture, Repository Pattern, CQRS e princípios SOLID. Entrego soluções robustas, escaláveis e de alta qualidade, focadas em melhorar a performance, a manutenção e a escalabilidade de sistemas.
+<p align="left">Sou Desenvolvedor .NET com experiência no desenvolvimento e manutenção de APIs utilizando C#, ASP.NET Core e Entity Framework Core, sempre aplicando Clean Architecture, Repository Pattern, CQRS e princípios SOLID. Entrego soluções robustas, escaláveis e de alta qualidade, focadas em melhorar a performance, a manutenção e a escalabilidade de sistemas.
 
 Principais Resultados:
 - Reduzi em até 40% o tempo de resposta em operações CRUD otimizando consultas e acessos ao banco de dados.
