@@ -2,40 +2,28 @@
 
 ###
 
-<p align="left">Sou Desenvolvedor .NET com experiência no desenvolvimento e manutenção de APIs utilizando C#, ASP.NET Core e Entity Framework Core, sempre aplicando Clean Architecture, Repository Pattern, CQRS e princípios SOLID. Entrego soluções robustas, escaláveis e de alta qualidade, focadas em melhorar a performance, a manutenção e a escalabilidade de sistemas.
+<p align="left">Sou desenvolvedor back-end com foco em Java, atuando desde 2024 no desenvolvimento e manutenção de APIs RESTful escaláveis, usando principalmente Spring Framework. Tenho experiência com SQL, Git, Docker e Maven, seguindo boas práticas de versionamento, testes e integração contínua, sempre priorizando performance, qualidade de código e arquitetura limpa.
 
-Principais Resultados:
-- Reduzi em até 40% o tempo de resposta em operações CRUD otimizando consultas e acessos ao banco de dados.
-- Implementei CQRS, aumentando a performance de leitura em até 20% em projetos com grande volume de dados.
-- Melhorei a modularidade e reduzi o tempo de manutenção ao estruturar sistemas com Clean Architecture.
-- Aumentei a cobertura de testes para 90%, diminuindo falhas em produção em até 35% com testes unitários e boas práticas de TDD.
-- Acelerei o desenvolvimento em até 25% ao aplicar o Repository Pattern e práticas de reuso de código.
-- Otimização da performance de relatórios e consultas complexas com melhorias em bancos SQL Server e MongoDB.
-- Experiência consolidada com versionamento e colaboração em equipes utilizando Git/GitHub.
+Sou apaixonado por criar produtos de sucesso, ótimo trabalho em equipe, experiente em otimizar processos para melhorar a experiência do cliente e solucionar problemas de projetos com eficiência.
 
-Habilidades Técnicas:
-Linguagens & Frameworks:
-- C#, ASP.NET Core, HTML, CSS, JavaScript
+Habilidades técnicas:
+- Java;
+- Spring Framework;
+- SQL;
+- RESTful APIs;
+- Git / Github;
+- Docker;
 
-Arquitetura & Boas Práticas:
-- Clean Architecture, SOLID, Repository Pattern, CQRS, RESTful APIs
+Ferramentas:
+- Sprint Tools for Eclipse;
+- Eclipse IDE;
 
-Banco de Dados:
-- SQL Server, MySQL, MongoDB
-
-Testes & Qualidade:
-- xUnit, Testes Unitários, TDD
-
-Ferramentas & Versionamento:
-- Git, GitHub, Postman, Swagger
-
-Metodologias Ágeis:
-- Scrum, Kanban
-
-Objetivo Profissional:
-Atuar como Desenvolvedor .NET em projetos desafiadores, onde eu possa entregar soluções performáticas e de fácil manutenção, contribuindo com meu conhecimento em boas práticas de desenvolvimento, otimização de sistemas e foco em resultados concretos.
-
-Atualmente cursando Análise e Desenvolvimento de Sistemas - Universidade Unicesumar.
+Qualidades Pessoais:
+- Aprendizagem rápida;
+- Organizado e comprometido;
+- Analítico e proativo;
+- Boa comunicação em equipe;
+- Aberto a feedbacks;
 
 Contato:
 Telefone: +55 88 99314-4813
