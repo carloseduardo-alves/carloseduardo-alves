@@ -26,8 +26,8 @@ Qualidades Pessoais:
 - Aberto a feedbacks;
 
 Contato:
-Telefone: +55 88 99314-4813
-E-mail: c.eduardoalves9@gmail.com
+- Telefone: +55 88 99314-4813
+- E-mail: c.eduardoalves9@gmail.com
 
 ###
 
